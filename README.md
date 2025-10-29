@@ -43,7 +43,7 @@ By applying advanced ML algorithms, feature engineering, and model evaluation te
 | Random Forest | 0.88 | 0.91 | 0.85 |
 | XGBoost | **0.90** | **0.93** | **0.88** |
 
-> ✅ **XGBoost achieved the best overall performance**, demonstrating strong predictive power and stability on the test data.
+> **XGBoost achieved the best overall performance**, demonstrating strong predictive power and stability on the test data.
 
 
 ## Key Insights
@@ -51,7 +51,7 @@ By applying advanced ML algorithms, feature engineering, and model evaluation te
 - Feature scaling and SMOTE balancing significantly improved recall for the minority (default) class.  
 - Ensemble models like XGBoost outperformed linear models in handling nonlinear relationships.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Language:** Python  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn, xgboost, streamlit
 - **Environment:** Jupyter Notebook
